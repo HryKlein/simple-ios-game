@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  SpriteKitSimpleGame
 //
-//  https://www.raywenderlich.com/145318/spritekit-swift-3-tutorial-beginners
+//  https://www.facebook.com/events/1784486641855616
 //
 //  Created by Erlend Morthen on 16.01.2018.
 //  Copyright © 2018 Erlend Morthen. All rights reserved.
